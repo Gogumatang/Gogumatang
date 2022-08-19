@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Gogumatang/Gogumatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University of California - Student 
+2022.6 ~ 2022.8
 
-Here are some ideas to get you started:
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://img.shields.io/badge/
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+## Features
