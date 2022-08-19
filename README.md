@@ -12,6 +12,8 @@ MLV Lab - Intern Researcher 2021.10 ~ 2022.8
 University of California - Student 2022.6 ~ 2022.8
 
 
+
+
 ## Now I'm ...
 GIST - Undergraduate 2020.3 ~
 
