@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=013078&height=300&section=header&text=%20HELLO!&fontSize=130)
 
 
-![falcon-9-rocket-4k-high-definition-wallpaper-preview]([https://user-images.githubusercontent.com/82081350/185619221-1506b9b7-3c69-4aed-8549-2e576573c7fc.jpg](https://user-images.githubusercontent.com/82081350/185619221-1506b9b7-3c69-4aed-8549-2e576573c7fc.jpg))
+![falcon-9-rocket-4k-high-definition-wallpaper-preview]([https://user-images.githubusercontent.com/82081350/185619221-1506b9b7-3c69-4aed-8549-2e576573c7fc.jpg])
 
 
 ## I was....
